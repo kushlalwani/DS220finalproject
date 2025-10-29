@@ -1,2 +1,2 @@
 # DS220finalproject
-access project: https://kushlalwani.github.io/project2/
+access project: https://kushlalwani.github.io/DS220finalproject/
